@@ -4,7 +4,12 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Home
+      <div className="inputs-holder">
+      Inputs
+      </div>
+      <div className="card-holder">
+      Card Holder
+      </div>
     </div>
   );
 }
